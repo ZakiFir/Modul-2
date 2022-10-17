@@ -1,0 +1,10 @@
+import math
+A = float(input("tinggi :"))
+B = float(input("miring :"))
+alas =(math.sqrt(B*B-A*A))
+keliling =A+B+(math.sqrt(B*B-A*A))
+luas =((math.sqrt(B*B-A*A)*A)/2)
+print("Alas     =%.0f cm"% alas)
+print("Tinggi   =%.0f cm"% A)
+print("Keliling =%.0f cm"% keliling)
+print("Luas     =%.0f cm^2"% luas)

@@ -1,0 +1,7 @@
+input("Nama                 :")
+input("Nim                  :")
+input("Kelas Pararel        :")
+input("Tempat/Tanggal Lahir :")
+input("Alamat               :")
+input("Hobby                :")
+input("No. HP               :")
